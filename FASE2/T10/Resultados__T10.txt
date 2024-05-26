@@ -1,0 +1,41 @@
+/-----------------------------------------------------------------------\
+
+    Technology size (nm): 90
+
+    Access time (ns): 0.917255
+    Cycle time (ns):  1.22948
+    Total dynamic read energy per access (nJ): 0.0589788
+    Total leakage power of a bank (mW): 9.67022
+    Cache height x width (mm): 0.369863 x 1.29599
+    
+\-----------------------------------------------------------------------/
+
+    Technology size (nm): 65
+
+    Access time (ns): 0.614983
+    Cycle time (ns):  0.855929
+    Total dynamic read energy per access (nJ): 0.0314984
+    Total leakage power of a bank (mW): 29.1628
+    Cache height x width (mm): 0.267513 x 0.936567
+
+/-----------------------------------------------------------------------\
+
+    Technology size (nm): 45
+
+    Access time (ns): 0.337403
+    Cycle time (ns):  0.694975
+    Total dynamic read energy per access (nJ): 0.018
+    Total leakage power of a bank (mW): 26.2462
+    Cache height x width (mm): 0.184662 x 0.647869
+
+\-----------------------------------------------------------------------/
+
+    Technology size (nm): 32
+
+    Access time (ns): 0.243305
+    Cycle time (ns):  0.26961
+    Total dynamic read energy per access (nJ): 0.00949613
+    Total leakage power of a bank (mW): 14.9606
+    Cache height x width (mm): 0.14729 x 0.269222
+
+/-----------------------------------------------------------------------\

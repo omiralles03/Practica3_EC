@@ -1,0 +1,41 @@
+/-----------------------------------------------------------------------\
+
+    Block size (bytes): 8
+
+    Access time (ns): 0.268358
+    Cycle time (ns):  0.26961
+    Total dynamic read energy per access (nJ): 0.00869742
+    Total leakage power of a bank (mW): 18.5484
+    Cache height x width (mm): 0.147718 x 0.333754
+
+\-----------------------------------------------------------------------/
+
+    Block size (bytes): 16
+    
+    Access time (ns): 0.243305
+    Cycle time (ns):  0.26961
+    Total dynamic read energy per access (nJ): 0.00949613
+    Total leakage power of a bank (mW): 14.9606
+    Cache height x width (mm): 0.14729 x 0.269222
+
+/-----------------------------------------------------------------------\
+
+    Block size (bytes): 32
+    
+    Access time (ns): 0.246542
+    Cycle time (ns):  0.526878
+    Total dynamic read energy per access (nJ): 0.011108
+    Total leakage power of a bank (mW): 12.2971
+    Cache height x width (mm): 0.105325 x 0.461363
+
+\-----------------------------------------------------------------------/
+
+    Block size (bytes): 64
+    
+    Access time (ns): 0.246542
+    Cycle time (ns):  0.526878
+    Total dynamic read energy per access (nJ): 0.0147662
+    Total leakage power of a bank (mW): 11.4788
+    Cache height x width (mm): 0.142016 x 0.428695
+
+/-----------------------------------------------------------------------\

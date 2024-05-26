@@ -1,0 +1,102 @@
+/-----------------------------------------------------------------------\
+
+	Total cache size (bytes): 16384
+
+	Access time (ns): 0.243305
+	Cycle time (ns):  0.26961
+	Total dynamic read energy per access (nJ): 0.00949613
+	Total leakage power of a bank (mW): 14.9606
+	Cache height x width (mm): 0.14729 x 0.269222
+
+\-----------------------------------------------------------------------/
+
+	Total cache size (bytes): 32768
+
+	Access time (ns): 0.290009
+	Cycle time (ns):  0.554392
+	Total dynamic read energy per access (nJ): 0.0147821
+	Total leakage power of a bank (mW): 26.7012
+	Cache height x width (mm): 0.147974 x 0.507128
+
+/-----------------------------------------------------------------------\
+
+	Total cache size (bytes): 65536
+
+	Access time (ns): 0.365555
+	Cycle time (ns):  0.554392
+	Total dynamic read energy per access (nJ): 0.0211116
+	Total leakage power of a bank (mW): 60.6241
+	Cache height x width (mm): 0.297485 x 0.647079
+
+\-----------------------------------------------------------------------/
+
+	Total cache size (bytes): 131072
+
+	Access time (ns): 0.462294
+	Cycle time (ns):  0.609808
+	Total dynamic read energy per access (nJ): 0.0312065
+	Total leakage power of a bank (mW): 115.063
+	Cache height x width (mm): 0.538009 x 0.655148
+
+/-----------------------------------------------------------------------\
+
+    Total cache size (bytes): 262144
+    
+    Access time (ns): 0.636325
+    Cycle time (ns):  1.56074
+    Total dynamic read energy per access (nJ): 0.0384455
+    Total leakage power of a bank (mW): 230.635
+    Cache height x width (mm): 0.603251 x 1.06387
+
+\-----------------------------------------------------------------------/
+
+    Total cache size (bytes): 524288
+
+    Access time (ns): 0.7837
+    Cycle time (ns):  1.56074
+    Total dynamic read energy per access (nJ): 0.0549806
+    Total leakage power of a bank (mW): 456.62
+    Cache height x width (mm): 1.20509 x 1.22878
+
+/-----------------------------------------------------------------------\
+
+    Total cache size (bytes): 1048576
+
+    Access time (ns): 0.966692
+    Cycle time (ns):  1.63177
+    Total dynamic read energy per access (nJ): 0.0880395
+    Total leakage power of a bank (mW): 862.149
+    Cache height x width (mm): 2.1652 x 1.24205
+
+\-----------------------------------------------------------------------/
+
+    Total cache size (bytes): 2097152
+    
+    Access time (ns): 1.18218
+    Cycle time (ns):  1.75074
+    Total dynamic read energy per access (nJ): 0.146748
+    Total leakage power of a bank (mW): 1653.93
+    Cache height x width (mm): 2.07598 x 2.42071
+
+/-----------------------------------------------------------------------\
+
+    Total cache size (bytes): 4194304
+
+    Access time (ns): 1.5695
+    Cycle time (ns):  1.75074
+    Total dynamic read energy per access (nJ): 0.199428
+    Total leakage power of a bank (mW): 3302.1
+    Cache height x width (mm): 4.11727 x 3.21626
+
+\-----------------------------------------------------------------------/
+
+    Total cache size (bytes): 8388608
+    
+    Access time (ns): 2.10614
+    Cycle time (ns):  5.24904
+    Total dynamic read energy per access (nJ): 0.243307
+    Total leakage power of a bank (mW): 6422.15
+    Cache height x width (mm): 4.97382 x 4.5765
+
+
+/-----------------------------------------------------------------------\

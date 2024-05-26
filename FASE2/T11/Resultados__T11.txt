@@ -1,0 +1,71 @@
+/-----------------------------------------------------------------------\
+
+    Associativity: 1
+
+    Access time (ns): 0.243305
+    Cycle time (ns):  0.26961
+    Total dynamic read energy per access (nJ): 0.00949613
+    Total leakage power of a bank (mW): 14.9606
+    Cache height x width (mm): 0.14729 x 0.269222
+
+\-----------------------------------------------------------------------/
+
+    Associativity: 2
+    
+    Access time (ns): 0.291371
+    Cycle time (ns):  0.26961
+    Total dynamic read energy per access (nJ): 0.00983589
+    Total leakage power of a bank (mW): 15.0304
+    Cache height x width (mm): 0.14761 x 0.269045
+
+/-----------------------------------------------------------------------\
+
+    Associativity: 4
+    
+    Access time (ns): 0.291371
+    Cycle time (ns):  0.26961
+    Total dynamic read energy per access (nJ): 0.0103764
+    Total leakage power of a bank (mW): 15.2523
+    Cache height x width (mm): 0.147738 x 0.268927
+
+\-----------------------------------------------------------------------/
+
+    Associativity: 8
+    
+    Access time (ns): 0.3123
+    Cycle time (ns):  0.55145
+    Total dynamic read energy per access (nJ): 0.0108457
+    Total leakage power of a bank (mW): 15.1156
+    Cache height x width (mm): 0.136647 x 0.461338
+
+/-----------------------------------------------------------------------\
+
+    Associativity: 16
+    
+    Access time (ns): 0.413895
+    Cycle time (ns):  1.51005
+    Total dynamic read energy per access (nJ): 0.0132187
+    Total leakage power of a bank (mW): 16.8681
+    Cache height x width (mm): 0.0738429 x 0.9171
+    
+\-----------------------------------------------------------------------/
+
+    Associativity: 32
+    
+    Access time (ns): 0.905968
+    Cycle time (ns):  5.1082
+    Total dynamic read energy per access (nJ): 0.0196135
+    Total leakage power of a bank (mW): 37.0523
+    Cache height x width (mm): 0.0548094 x 1.81572
+
+/-----------------------------------------------------------------------\
+
+    Associativity: 64
+    
+    Access time (ns): 1.08202
+    Cycle time (ns):  1.46564
+    Total dynamic read energy per access (nJ): 0.139308
+    Total leakage power of a bank (mW): 84.6868
+    Cache height x width (mm): 0.0944585 x 3.64486
+
+\-----------------------------------------------------------------------/

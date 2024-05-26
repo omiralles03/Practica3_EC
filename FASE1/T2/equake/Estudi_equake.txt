@@ -1,0 +1,14 @@
+sim_IPC                      1.5451 # instructions per cycle
+dl1.miss_rate                0.1086 # miss rate (i.e., misses/ref)
+sim_IPC                      1.6387 # instructions per cycle
+dl1.miss_rate                0.0414 # miss rate (i.e., misses/ref)
+sim_IPC                      1.7032 # instructions per cycle
+dl1.miss_rate                0.0038 # miss rate (i.e., misses/ref)
+sim_IPC                      1.7102 # instructions per cycle
+dl1.miss_rate                0.0006 # miss rate (i.e., misses/ref)
+sim_IPC                      1.7103 # instructions per cycle
+dl1.miss_rate                0.0006 # miss rate (i.e., misses/ref)
+sim_IPC                      1.7107 # instructions per cycle
+dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
+sim_IPC                      1.7108 # instructions per cycle
+dl1.miss_rate                0.0004 # miss rate (i.e., misses/ref)
