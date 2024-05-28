@@ -8,7 +8,7 @@ of SimpleScalar, LLC (info@simplescalar.com).
 warning: section `.comment' ignored...
 sim: command line: /home/milax/Documents/Practica3/FASE1/../simplesim-3.0_ecx/sim-outorder -fastfwd 100000000 -max:inst 100000000 -cache:dl1 dl1:4:32:64:l -redir:sim /home/milax/Documents/Practica3/FASE1/T5/applu/Result_applu_dl1_8KB.txt /home/milax/Documents/Practica3/FASE1/../applu/exe/applu.exe applu 
 
-sim: simulation started @ Sun May 26 12:08:38 2024, options follow:
+sim: simulation started @ Tue May 28 18:36:54 2024, options follow:
 
 sim-outorder: This simulator implements a very detailed out-of-order issue
 superscalar processor with a two-level memory system and speculative

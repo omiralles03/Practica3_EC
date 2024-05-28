@@ -8,7 +8,7 @@ of SimpleScalar, LLC (info@simplescalar.com).
 warning: section `.comment' ignored...
 sim: command line: /home/milax/Documents/Practica3/FASE1/../simplesim-3.0_ecx/sim-outorder -fastfwd 100000000 -max:inst 100000000 -cache:il1 il1:16:32:2:l -redir:sim /home/milax/Documents/Practica3/FASE1/T3/ammp/Result_ammp_il1_1KB.txt /home/milax/Documents/Practica3/FASE1/../ammp/exe/ammp.exe ammp 
 
-sim: simulation started @ Sun May 26 20:38:42 2024, options follow:
+sim: simulation started @ Tue May 28 18:03:51 2024, options follow:
 
 sim-outorder: This simulator implements a very detailed out-of-order issue
 superscalar processor with a two-level memory system and speculative
@@ -138,8 +138,8 @@ sim_num_refs               30101330 # total number of loads and stores committed
 sim_num_loads              23145473 # total number of loads committed
 sim_num_stores         6955857.0000 # total number of stores committed
 sim_num_branches           20651019 # total number of branches committed
-sim_elapsed_time                 36 # total simulation time in seconds
-sim_inst_rate          2777777.8056 # simulation speed (in insts/sec)
+sim_elapsed_time                 39 # total simulation time in seconds
+sim_inst_rate          2564102.5897 # simulation speed (in insts/sec)
 sim_total_insn            105417080 # total number of instructions executed
 sim_total_refs             31070237 # total number of loads and stores executed
 sim_total_loads            24041414 # total number of loads executed
@@ -251,6 +251,6 @@ ld_target_big_endian              0 # target executable endian-ness, non-zero if
 mem.page_count                 1809 # total number of pages allocated
 mem.page_mem                 14472k # total size of memory pages allocated
 mem.ptab_misses              251026 # total first level page table misses
-mem.ptab_accesses        1148397240 # total page table accesses
+mem.ptab_accesses        1148397242 # total page table accesses
 mem.ptab_miss_rate           0.0002 # first level page table miss rate
 

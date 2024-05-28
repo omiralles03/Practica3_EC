@@ -1,0 +1,15 @@
+Cache Parameters:
+    Total cache size (bytes): 2097152
+    Number of banks: 4
+    Associativity: 16
+    Block size (bytes): 64
+    Read/write Ports: 1
+    Read ports: 0
+    Write ports: 0
+    Technology size (nm): 32
+
+    Access time (ns): 1.57575
+    Cycle time (ns):  1.62856
+    Total dynamic read energy per access (nJ): 1.01669
+    Total leakage power of a bank (mW): 508.446
+    Cache height x width (mm): 1.11452 x 6.80233

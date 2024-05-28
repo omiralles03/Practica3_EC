@@ -1,14 +1,14 @@
-sim_IPC                <error: divide by zero> # instructions per cycle
-dl1.miss_rate          <error: divide by zero> # miss rate (i.e., misses/ref)
-sim_IPC                <error: divide by zero> # instructions per cycle
-dl1.miss_rate          <error: divide by zero> # miss rate (i.e., misses/ref)
-sim_IPC                <error: divide by zero> # instructions per cycle
-dl1.miss_rate          <error: divide by zero> # miss rate (i.e., misses/ref)
-sim_IPC                <error: divide by zero> # instructions per cycle
-dl1.miss_rate          <error: divide by zero> # miss rate (i.e., misses/ref)
-sim_IPC                <error: divide by zero> # instructions per cycle
-dl1.miss_rate          <error: divide by zero> # miss rate (i.e., misses/ref)
-sim_IPC                <error: divide by zero> # instructions per cycle
-dl1.miss_rate          <error: divide by zero> # miss rate (i.e., misses/ref)
-sim_IPC                <error: divide by zero> # instructions per cycle
-dl1.miss_rate          <error: divide by zero> # miss rate (i.e., misses/ref)
+sim_IPC                      1.3346 # instructions per cycle
+dl1.miss_rate                0.0381 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3546 # instructions per cycle
+dl1.miss_rate                0.0175 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3580 # instructions per cycle
+dl1.miss_rate                0.0128 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3621 # instructions per cycle
+dl1.miss_rate                0.0108 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3637 # instructions per cycle
+dl1.miss_rate                0.0096 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3640 # instructions per cycle
+dl1.miss_rate                0.0086 # miss rate (i.e., misses/ref)
+sim_IPC                      1.3656 # instructions per cycle
+dl1.miss_rate                0.0070 # miss rate (i.e., misses/ref)

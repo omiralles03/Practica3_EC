@@ -20,9 +20,9 @@ TAREA=${1:-0}
 declare -A BENCHMARKS
 BENCHMARKS["ammp"]="ammp < ammp.in > ammp.out 2> ammp.err"
 BENCHMARKS["applu"]="applu < applu.in > applu.out 2> applu.err"
-BENCHMARKS["eon"]="eon chair.control.cook chair.camera chair.surfaces chair.cook.ppm ppm pixels_out.cook > cook_log.out 2> cook_log.err"
+BENCHMARKS["eon"]="chair.control.rushmeier chair.camera chair.surfaces chair.rushmeier.ppm ppm pixels_out.rushmeier > rushmeier_log.out 2> rushmeier_log.err"
 BENCHMARKS["equake"]="equake < inp.in > inp.out 2> inp.err"
-BENCHMARKS["vpr"]="vpr net.in arch.in place.out dum.out -nodisp -place_only -init_t 5 -exit_t 0.005 -alpha_t 0.9412 -inner_num 2 > place_log.out 2> place_log.err"
+BENCHMARKS["vpr"]="net.in arch.in place.out dum.out -nodisp -place_only -init_t 5 -exit_t 0.005 -alpha_t 0.9412 -inner_num 2 > place_log.out 2> place_log.err"
 
 # Configuración base de cachés
 BASE_CACHES=("dl1" "il1" "ul2")
