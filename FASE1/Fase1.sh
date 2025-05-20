@@ -90,15 +90,16 @@ execute_simulation() {
 
 # Ejecutar simulaciones basadas en la tarea seleccionada
 for BENCH in "${!BENCHMARKS[@]}"; do
+
     for i in "${!BASE_CACHES[@]}"; do
       if [[ $TAREA -eq 0 || $TAREA -eq 1 ]]; then
-      CACHE_TYPE="${BASE_CACHES[$i]}"
-      SIZE="${BASE_SIZES[$i]}"
-      ASSOC="${BASE_ASSOCS[$i]}"
-      BLOCK_SIZE="${BASE_BLOCK_SIZES[$i]}"
-      execute_simulation "$BENCH" "$CACHE_TYPE" "$SIZE" "$ASSOC" "$BLOCK_SIZE" 1
+		  CACHE_TYPE="${BASE_CACHES[$i]}"
+		  SIZE="${BASE_SIZES[$i]}"
+		  ASSOC="${BASE_ASSOCS[$i]}"
+		  BLOCK_SIZE="${BASE_BLOCK_SIZES[$i]}"
+		  execute_simulation "$BENCH" "$CACHE_TYPE" "$SIZE" "$ASSOC" "$BLOCK_SIZE" 1
+      fi
     done
-  fi
 
   if [[ $TAREA -eq 0 || $TAREA -eq 2 ]]; then
     CACHE_TYPE="dl1"
